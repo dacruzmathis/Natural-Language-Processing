@@ -22,7 +22,7 @@ Functions that calculate engagement rate by users :
 
 ![Alt text](img/2023-11-20_01h46_51.png)
 
-Engagements rate for the President Of The United States : 
+Engagement rates for the President Of The United States : 
 
 ![Alt text](img/2023-11-20_01h47_02.png)
 
